@@ -3,7 +3,7 @@
 Tugas 5 B01. Metric Converter berbasis Android Studio oleh Febrian Rezki Hemeto - 220211060072 Pengembangan Aplikasi Mobile (A)
 repositori ini hanya digunakan untuk repo aplikasi metric converter tugas 5
 
-![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/Screenrecorder-2024-11-03-13-51-10-598.gif?raw=true)
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/Screenrecorder-2024-11-03-13-51-10-598.gif?raw=true" width="250" height="500" alt="Metric Converter GIF">
 
 # Link Aplikasi
 
@@ -44,6 +44,6 @@ Metric Converter App adalah aplikasi Android yang memungkinkan pengguna untuk me
 
 # Snapshot
 
-![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.jpeg?raw=true)
-![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/2.jpeg?raw=true)
-![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/3.jpeg?raw=true)
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.jpeg?raw=true" width="250" height="500" alt="Snapshot 1">
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/2.jpeg?raw=true" width="250" height="500" alt="Snapshot 2">
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/3.jpeg?raw=true" width="250" height="500" alt="Snapshot 3">
