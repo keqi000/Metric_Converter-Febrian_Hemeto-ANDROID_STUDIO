@@ -1,0 +1,39 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Tugas 5</string>
+    <string name="metric_converter">Metric Converter</string>
+    <string name="by_febrian_hemeto">By: Febrian Hemeto</string>
+
+    <!-- Input Labels -->
+    <string name="select_metric">Pilih Metrik</string>
+    <string name="from">Dari:</string>
+    <string name="to">Ke:</string>
+    <string name="value">Nilai:</string>
+    <string name="input_value_hint">Masukkan nilai</string>
+
+    <!-- Prompts and Descriptions -->
+    <string name="select_metric_prompt">Pilih metrik dahulu</string>
+    <string name="select_unit_prompt">Pilih satuan</string>
+    <string name="invalid_input">Masukkan nilai yang valid</string>
+    <string name="from_unit_description">Pilih unit konversi asal</string>
+    <string name="to_unit_description">Pilih unit konversi tujuan</string>
+    <string name="select_metric_description">Pilih jenis metrik untuk konversi</string>
+
+    <!-- Result and Explanation Titles -->
+    <string name="conversion_result_title">Hasil Konversi</string>
+    <string name="conversion_explanation_title">Penjelasan Konversi</string>
+    <string name="metric_fact_title">Fakta Metrik</string>
+    <string name="no_metric_fact">Tidak ada fakta metrik tersedia</string>
+
+    <!-- Conversion Explanations -->
+    <string name="conversion_explanation">%1$s %2$s = %3$s %4$s</string>
+    <string name="conversion_explanation_unknown">Tidak ada penjelasan tersedia untuk konversi ini.</string>
+
+    <!-- Temperature Conversion Explanations -->
+    <string name="conversion_explanation_celsius_to_fahrenheit">Rumus: (°C × 9/5) + 32 = °F\n(%1$f°C × 9/5) + 32 = %2$f°F</string>
+    <string name="conversion_explanation_celsius_to_kelvin">Rumus: °C + 273.15 = K\n%1$f°C + 273.15 = %2$fK</string>
+    <string name="conversion_explanation_fahrenheit_to_celsius">Rumus: (°F - 32) × 5/9 = °C\n(%1$f°F - 32) × 5/9 = %2$f°C</string>
+    <string name="conversion_explanation_fahrenheit_to_kelvin">Rumus: (°F - 32) × 5/9 + 273.15 = K\n(%1$f°F - 32) × 5/9 + 273.15 = %2$fK</string>
+    <string name="conversion_explanation_kelvin_to_celsius">Rumus: K - 273.15 = °C\n%1$fK - 273.15 = %2$f°C</string>
+    <string name="conversion_explanation_kelvin_to_fahrenheit">Rumus: (K - 273.15) × 9/5 + 32 = °F\n(%1$fK - 273.15) × 9/5 + 32 = %2$f°F</string>
+</resources>
