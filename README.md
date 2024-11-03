@@ -44,6 +44,9 @@ Metric Converter App adalah aplikasi Android yang memungkinkan pengguna untuk me
 
 # Snapshot
 
-<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.jpeg?raw=true" width="250" height="500" alt="Snapshot 1">
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.0.jpeg?raw=true" width="250" height="500" alt="Snapshot 1">
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.1.jpeg?raw=true" width="250" height="500" alt="Snapshot 1.1">
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.2.jpeg?raw=true" width="250" height="500" alt="Snapshot 1.2">
+<img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/1.3.jpeg?raw=true" width="250" height="500" alt="Snapshot 1.3">
 <img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/2.jpeg?raw=true" width="250" height="500" alt="Snapshot 2">
 <img src="https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/blob/main/assets/3.jpeg?raw=true" width="250" height="500" alt="Snapshot 3">
