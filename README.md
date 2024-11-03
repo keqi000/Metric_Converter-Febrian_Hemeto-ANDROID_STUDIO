@@ -21,7 +21,7 @@ Metric Converter App adalah aplikasi Android yang memungkinkan pengguna untuk me
 
 - Hint pada Spinner: Pada saat aplikasi pertama kali dibuka, pengguna akan diminta untuk memilih kategori metrik dan satuan yang ingin digunakan.
 
-- Pengaturan Input Nilai: Menyediakan input untuk memasukkan nilai yang akan dikonversi dan tombol untuk memulai proses konversi.
+- Pengaturan Input Nilai: Menyediakan input untuk memasukkan nilai yang akan dikonversi secara otomatis.
 
 - Hasil dan Penjelasan Satuan SI: Setelah konversi dilakukan, aplikasi akan menampilkan hasil konversi beserta penjelasan konversi dan penjelasan singkat mengenai satuan dasar SI dari kategori yang dipilih.
 
