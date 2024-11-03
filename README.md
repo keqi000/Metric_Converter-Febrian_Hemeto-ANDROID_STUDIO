@@ -3,13 +3,15 @@
 Tugas 5 B01. Metric Converter berbasis Android Studio oleh Febrian Rezki Hemeto - 220211060072 Pengembangan Aplikasi Mobile (A)
 repositori ini hanya digunakan untuk repo aplikasi metric converter tugas 5
 
-# Gambaran Umum
-
-Metric Converter App adalah aplikasi Android yang memungkinkan pengguna untuk melakukan konversi berbagai satuan metrik dengan mudah dan cepat. Aplikasi ini mendukung berbagai kategori metrik, termasuk panjang, massa, volume, waktu, suhu, arus listrik, intensitas cahaya, dan jumlah zat. Tujuan aplikasi ini adalah untuk memberikan kemudahan bagi pengguna dalam melakukan konversi satuan tanpa harus melakukan perhitungan manual.
+![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/tree/main/assets/Screenrecorder-2024-11-03-13-51-10-598.gif?raw=true)
 
 # Link Aplikasi
 
 https://drive.google.com/drive/folders/1LIINdiW0baG9FemcGyjBZKxvXzmjxi5r?usp=sharing
+
+# Gambaran Umum
+
+Metric Converter App adalah aplikasi Android yang memungkinkan pengguna untuk melakukan konversi berbagai satuan metrik dengan mudah dan cepat. Aplikasi ini mendukung berbagai kategori metrik, termasuk panjang, massa, volume, waktu, suhu, arus listrik, intensitas cahaya, dan jumlah zat. Tujuan aplikasi ini adalah untuk memberikan kemudahan bagi pengguna dalam melakukan konversi satuan tanpa harus melakukan perhitungan manual.
 
 # Fitur
 
@@ -39,3 +41,9 @@ https://drive.google.com/drive/folders/1LIINdiW0baG9FemcGyjBZKxvXzmjxi5r?usp=sha
   Klik Tombol "Konversi":
 
 - Hasil konversi akan tampil di bawah tombol, beserta penjelasan singkat mengenai satuan SI yang sesuai.
+
+# Snapshot
+
+![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/tree/main/assets/1.jpeg?raw=true)
+![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/tree/main/assets/2.jpeg?raw=true)
+![gif](https://github.com/keqi000/Metric_Converter-Febrian_Hemeto-ANDROID_STUDIO/tree/main/assets/3.jpeg?raw=true)
