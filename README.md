@@ -38,9 +38,8 @@ Metric Converter App adalah aplikasi Android yang memungkinkan pengguna untuk me
   Masukkan Nilai yang Akan Dikonversi:
 
 - Di kolom input, masukkan nilai numerik yang ingin Anda konversi.
-  Klik Tombol "Konversi":
 
-- Hasil konversi akan tampil di bawah tombol, beserta penjelasan singkat mengenai satuan SI yang sesuai.
+- Hasil konversi akan tampil di bawahnya, beserta penjelasan singkat mengenai satuan SI yang sesuai.
 
 # Snapshot
 
